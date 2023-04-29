@@ -80,6 +80,7 @@ This is a small spring boot project uses CRUD operation to manage users
 - Get user details based on ID
 - Delete user
 - Update user info based on ID
+- It will valiadte the Mail , Date of birth , Time , date.
 
 
 ## Lessons Learned
